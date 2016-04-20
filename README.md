@@ -1,4 +1,5 @@
 # DrawerModel
-swiftDrawer textbranch
-r
-createing  a new branch is quick 222 simple 
+swiftDrawer textbranchr
+createing  a new branch is quick 222 simple
+createing a new branch is quick AND simple 
+
